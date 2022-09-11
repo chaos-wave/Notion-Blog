@@ -5,9 +5,9 @@ title: 'CHAOSWAVE',
   link: 'https://chaoswave.com',
   description: 'The Universe is Only a By-product of Our Gloom.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
-  appearance: 'dark', // ['light', 'dark', 'auto'],
+  appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'serif', // ['sans-serif', 'serif']
-  lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
+  lightBackground: '#BDC0BA', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#36563C', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2021, // If leave this empty, current year will be used.
