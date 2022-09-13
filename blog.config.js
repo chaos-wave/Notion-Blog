@@ -3,7 +3,7 @@ title: 'CHAOSWAVE',
   author: 'Song Chao',
   email: 'ruaforu@gmail.com',
   link: 'https://chaoswave.com',
-  description: 'The Universe is Only a By-product of Our Gloom.',
+  description: 'into jungle',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'serif', // ['sans-serif', 'serif']
@@ -11,7 +11,7 @@ title: 'CHAOSWAVE',
   darkBackground: '#36563C', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2021, // If leave this empty, current year will be used.
-  postsPerPage: 7,
+  postsPerPage: 10,
   sortByDate: false,
   showAbout: true,
   showArchive: true,
