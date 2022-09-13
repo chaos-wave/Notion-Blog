@@ -7,10 +7,11 @@ const NavBar = () => {
   const locale = useLocale()
   const links = [
     { id: 0, name: locale.NAV.INDEX, to: Texts.path || '/', show: true },
-    { id: 1, name: locale.NAV.ABOUT, to: '/about', show: BLOG.showAbout },
+    { id: 1, name: locale.NAV.ABOUT, to: '/about', show: Texts.showAbout },
     { id: 2, name: locale.NAV.RSS, to: '/feed', show: true },
-    { id: 3, name: locale.NAV.SEARCH, to: '/search', show: true }
-    { id: 5, name: locale.NAV.Chaowave, to: 'https://Chaoswave.xyz', show: true }
+    { id: 3, name: locale.NAV.SEARCH, to: '/search', show: true },
+    { id: 5, name: locale.NAV.Chaowave, to: 'Chaoswave', show: true }
+    { id: 5, name: locale.NAV.Chaoswave, to: 'https://Chaoswave.xyz', show: true }
   ]
   return (
     <div className="flex-shrink-0">
