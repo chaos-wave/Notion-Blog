@@ -8,7 +8,7 @@ title: 'CHAOSWAVE',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'serif', // ['sans-serif', 'serif']
   lightBackground: '#BDC0BA', // use hex value, don't forget '#' e.g #fffefc
-  darkBackground: '#36563C', // use hex value, don't forget '#'
+  darkBackground: '#4a4f46', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2021, // If leave this empty, current year will be used.
   postsPerPage: 10,
