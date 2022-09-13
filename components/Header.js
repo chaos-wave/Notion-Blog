@@ -10,7 +10,7 @@ const NavBar = () => {
     { id: 1, name: locale.NAV.ABOUT, to: '/about', show: BLOG.showAbout },
     { id: 2, name: locale.NAV.RSS, to: '/feed', show: true },
     { id: 3, name: locale.NAV.SEARCH, to: '/search', show: true }
-    { id: 5, name: locale.NAV.Chaowave, to: '/Chaoswave', show: true }
+    { id: 5, name: locale.NAV.Chaowave, to: 'https://Chaoswave.xyz', show: true }
   ]
   return (
     <div className="flex-shrink-0">
