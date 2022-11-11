@@ -3,7 +3,7 @@ title: 'CHAOSWAVE',
   author: 'Song Chao',
   email: 'ruaforu@gmail.com',
   link: 'https://chaoswave.com',
-  description: 'into jungle',
+  description: 'into the jungle',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'serif', // ['sans-serif', 'serif']
