@@ -1,7 +1,7 @@
 const BLOG = {
-title: 'CHAOSWAVE',
+title: 'Chaoswave',
   author: 'Song Chao',
-  email: 'ruaforu@gmail.com',
+  email: 'info@chaoswave.xyz',
   link: 'https://chaoswave.com',
   description: 'into the jungle',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
