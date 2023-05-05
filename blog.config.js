@@ -1,5 +1,5 @@
 const BLOG = {
-title: 'Chaoswave',
+title: 'Song Yifan',
   author: 'Song Chao',
   email: 'info@chaoswave.xyz',
   link: 'https://chaoswave.com',
