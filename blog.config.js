@@ -2,7 +2,7 @@ const BLOG = {
 title: 'Song Yifan',
   author: 'Song Chao',
   email: 'info@chaoswave.xyz',
-  link: 'https://chaoswave.com',
+  link: 'https://chaoswave.xyz',
   description: 'into the jungle',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
